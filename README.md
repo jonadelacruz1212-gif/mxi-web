@@ -1,2 +1,2 @@
-# mxi-web
+# index.html
 hecho por la curiosidad!
